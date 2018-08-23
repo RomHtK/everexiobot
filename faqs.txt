@@ -3,21 +3,52 @@
 
 	{
 			"id": 1,
-			"question": "What is TokenCash?",
-			"answer": "An Ethereum token family, pegged to fiat currency and tradable on the Everex Wallet, as well as on third-party applications and exchanges"
+			"question": "What is Everex?",
+			"answer": "Everex is a financial technology company that provides blockchain-powered solutions for financial service providers and their customers. Everex’s solution enables cross-border money transfers, direct payments, crypto/fiat currency exchanges and lending over the blockchain."
 		},
 
 		{
 			"id": 2,
-			"question": "What is CryptoCash?",
-			"answer": "An Ethereum token family, pegged to fiat currency and tradable on the Everex Wallet, as well as on third-party applications and exchanges"
+			"question": "How does Everex’s technology benefits users?",
+			"answer": "1) Optimization of payments for corporations and individuals via blockchain technology for transfers and payments in different currencies.
+			2) New business opportunities, such as international remittances, national/cryptocurrency exchange, and trading and cross-border lending for individuals, non-financial and financial services companies without using legacy payment systems, such as SWIFT.
+			3) Drastic reduction of transaction costs by reducing the number of financial intermediaries in cross-border transactions.
+			4) Settlement time of less than one minute; immediate access to funds results in faster turnover of the capital for small/medium enterprises (SMEs), improving economic growth."
 		},
 
 		{
 			"id": 3,
-			"question": "What is Everex?",
-			"answer": "Everex EVX"
-		}
+			"question": "How does Everex’s eFiat work?",
+			"answer": "Everex’s eFiat (or digital IOU) bears the ticker of any given national currency — for example, e-US dollar (eUSD), e-euro (eEUR) or e-renminbi (eCNY) — and maintains par value with its respective currency.
+			
+			In other words, one eEUR is equal to, and fully redeemable for, one euro from Everex’s licensed European financial partners. Everex never touches the user’s money. Unlike Tether and other centralized stable coin, Everex segregates funds.
+			Everex’s digital token allows users to convert fiat currencies into and out of EVX as an option for deposits and withdrawals on the exchanges on which EVX is traded.
+			
+			Everex partners with licensed financial entities that act as underwriters of eFiat. Each digitized currency is backed up by the value of the funds stored at either:
+			
+			Central banks
+			Commercial banks
+			Challenger banks (small, recently-created banks that compete with long-established banks)
+			Digital banks
+			Other e-money licensed financial institutions
+			Global corporations
+			Money transfer operators and currency-exchange businesses
+			Retailers, manufacturers and telecommunications services firms
+			
+			For example, each deposit of one euro into a financial partner’s bank account within the European Union creates an equivalent 1 eEUR on the blockchain with a respective smart contract. The eEUR is then instantly sent to the depositor’s Everex e-wallet.
+			Once the depositor’s Everex e-wallet is funded, payments may be sent to other global e-wallet users in the form of original currency (eEUR). Working with FX partners, Everex converts eEUR to the recipient’s fiat currency using a low-cost cash-out option. In this example, European customers may trade with, and directly pay, Asian partners for goods, services or assets, without relying on lengthy and expensive bank-transfer options."
+		},
+		
+		{
+			"id": 3,
+			"question": "What is the difference between Ripple and Everex?",
+			"answer": "Everex and Ripple are not competitors; in fact, they could be seen more as complementary.
+			
+			Ripple focuses on business-to-business (B2B) technology deployment and its clients are mainly big banks, with whom Ripple works directly to facilitate large transactions. Ripple’s technology does not offer the stable coin feature and is not involved with the financial inclusion of the underbanked population.
+			
+			Everex’s mission is to accelerate financial inclusion and provide access to unbanked/underbanked individuals and SMEs worldwide. As such, Everex is oriented towards a business-to-business-to-consumer (B2B2C) model. Everex deploys its solution on the public Ethereum blockchain, where customization according to each customer’s needs is possible to a great extent. Everex also offers a stable coin feature."
+		},
+		
 
 	]
 }
